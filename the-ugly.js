@@ -2,7 +2,7 @@
 
 for (var i = 1; i <= 100; i++) {
     var output;
-    if(!(i % 15)) {
+    if (!(i % 15)) {
         output = 'FizzBuzz';
     } else if (!(i % 3)) {
         output = 'Fizz';
